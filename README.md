@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/heroku.com/deploy?template=https://github.com/Anany09876/LEGENDBOT/)
+- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/heroku.com/deploy?)
 
 ## Deploy Locally
 
